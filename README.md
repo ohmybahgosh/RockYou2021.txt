@@ -45,8 +45,19 @@ THIS IS JUST A COMPILED WORDLIST. THIS DOES NOT CONTAIN USERNAMES PAIRED WITH PA
 
 # Download Links:
 #### _Feel Free To Provide This REPO With More Sources_
+># Magnet Download Link:
+>**Magnet:** 
+>`magnet:?xt=urn:btih:JEQMEEFTBXT35RJ3GUTGXU7HP3HBU5P6&dn=rockyou2021.txt%20dictionary%20from%20kys234%20on%20RaidForums&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce)`
+>
+>or
+>
+> **[CLICK HERE/RIGHT CLICK > SAVE AS](magnet:?xt=urn:btih:JEQMEEFTBXT35RJ3GUTGXU7HP3HBU5P6&dn=rockyou2021.txt%20dictionary%20from%20kys234%20on%20RaidForums&tr=udp://tracker.openbittorrent.com:6969/announce%29)**
+
+---
+---
 
 ># AnonFiles.com Download Links:
+>#### Command To Extract:  `7za RockYou2021.txt.7z.001`
 >### **Part 1:**  rockyou2021.txt.7z.001  
 >**Size:** 9GB
 >**Link:**  https://anonfiles.com/H5k6r902ud/rockyou2021.txt.7z_001
@@ -54,9 +65,13 @@ THIS IS JUST A COMPILED WORDLIST. THIS DOES NOT CONTAIN USERNAMES PAIRED WITH PA
 >### **Part 2:**  rockyou2021.txt.7z.002  
 >**Size:** 4.64GB
 >**Link:**  https://anonfiles.com/pfd4ra0fu9/rockyou2021.txt.7z_002
-
+---
+---
 ># Mega.nz Download Links:
+>#### Command To Extract:  `7za RockYou2021.7z.001`
 >**Folder Contains 1GB Chunks**
 >https://mega.nz/folder/aDpmxCiD#f_pSJ0vV698-Ev1mbyYNAQ
 >
 >![Files in Mega Folder](https://i.imgur.com/jr1a75a.png)
+---
+---
