@@ -8,7 +8,7 @@
     
 THIS IS JUST A COMPILED WORDLIST. THIS DOES NOT CONTAIN USERNAMES PAIRED WITH PASSWORDS.  IT IS SIMPLY A LONG ASS LIST OF WORDS TO TEST INTERNAL SECURITY IN A LEGAL MANOR ONLY.
 
-### _Download Links at Bottom of this page..._
+### _[Download Links at Bottom of this page...](https://github.com/ohmybahgosh/RockYou2021.txt/blob/main/README.md#download-links)_
 
 ## Originally available from RapidFourms:  
 >
