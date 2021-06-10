@@ -45,13 +45,14 @@ THIS IS JUST A COMPILED WORDLIST. THIS DOES NOT CONTAIN USERNAMES PAIRED WITH PA
 
 # Download Links:
 #### _Feel Free To Provide This REPO With More Sources_
-># Magnet Download Link:
+># Magnet & Torrent Download Links:
 >**Magnet:** 
->`magnet:?xt=urn:btih:JEQMEEFTBXT35RJ3GUTGXU7HP3HBU5P6&dn=rockyou2021.txt%20dictionary%20from%20kys234%20on%20RaidForums&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce)`
+>`magnet:?xt=urn:btih:JEQMEEFTBXT35RJ3GUTGXU7HP3HBU5P6&dn=rockyou2021.txt%20dictionary%20from%20kys234%20on%20RaidForums&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce`
 >
 >or
 >
-> **[CLICK HERE/RIGHT CLICK > SAVE AS](magnet:?xt=urn:btih:JEQMEEFTBXT35RJ3GUTGXU7HP3HBU5P6&dn=rockyou2021.txt%20dictionary%20from%20kys234%20on%20RaidForums&tr=udp://tracker.openbittorrent.com:6969/announce%29)**
+> **Torrent File**:
+> https://anonfiles.com/daLbwb0eu5/rockyou2021TXT_Wordlist_torrent
 
 ---
 ---
