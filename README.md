@@ -14,7 +14,7 @@ THIS IS JUST A COMPILED WORDLIST. THIS DOES NOT CONTAIN USERNAMES PAIRED WITH PA
 >
 >
 #### Forum Post URL:
-> https://bit.ly/2RHJqKj 
+> http://tiny.cc/52a2uz 
 >
 >  
 >
