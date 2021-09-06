@@ -58,7 +58,7 @@ THIS IS JUST A COMPILED WORDLIST. THIS DOES NOT CONTAIN USERNAMES PAIRED WITH PA
 ---
 
 ># AnonFiles.com Download Links:
->#### Command To Extract:  `7za RockYou2021.txt.7z.001`
+>#### Command To Extract:  `7za e RockYou2021.txt.7z.001`
 >### **Part 1:**  rockyou2021.txt.7z.001  
 >**Size:** 9GB
 >**Link:**  https://anonfiles.com/H5k6r902ud/rockyou2021.txt.7z_001
@@ -69,7 +69,7 @@ THIS IS JUST A COMPILED WORDLIST. THIS DOES NOT CONTAIN USERNAMES PAIRED WITH PA
 ---
 ---
 ># Mega.nz Download Links:
->#### Command To Extract:  `7za RockYou2021.7z.001`
+>#### Command To Extract:  `7za e RockYou2021.7z.001`
 >**Folder Contains 1GB Chunks**
 >https://mega.nz/folder/aDpmxCiD#f_pSJ0vV698-Ev1mbyYNAQ
 >
