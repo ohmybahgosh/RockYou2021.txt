@@ -62,13 +62,25 @@ THIS IS JUST A COMPILED WORDLIST. THIS DOES NOT CONTAIN USERNAMES PAIRED WITH PA
 >### **Part 1:**  rockyou2021.txt.7z.001  
 >**Size:** 9GB  
 >**Link:**  https://anonfiles.com/Da41k3c9y9/rockyou2021.txt.7z_001  
->~~**Link:**  https://anonfiles.com/H5k6r902ud/rockyou2021.txt.7z_001~~
 >
 >### **Part 2:**  rockyou2021.txt.7z.002  
 >**Size:** 4.64GB
 >**Link:**  https://anonfiles.com/pfd4ra0fu9/rockyou2021.txt.7z_002
 ---
 ---
+
+># BayFiles.com Download Links:
+>#### Command To Extract:  `7za e RockYou2021.txt.7z.001`
+>### **Part 1:**  rockyou2021.txt.7z.001  
+>**Size:** 9GB  
+>**Link:**  https://bayfiles.com/T0mcg5tdy8/rockyou2021.txt.7z_001
+>
+>### **Part 2:**  rockyou2021.txt.7z.002  
+>**Size:** 4.64GB
+>**Link:**  https://bayfiles.com/D2e9gft3y7/rockyou2021.txt.7z_002
+---
+---
+
 ># Mega.nz Download Links:
 >#### Command To Extract:  `7za e RockYou2021.7z.001`
 >**Folder Contains 1GB Chunks**
