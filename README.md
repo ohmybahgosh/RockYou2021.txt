@@ -52,32 +52,8 @@ THIS IS JUST A COMPILED WORDLIST. THIS DOES NOT CONTAIN USERNAMES PAIRED WITH PA
 >or
 >
 > **Torrent File**:
-> https://anonfiles.com/daLbwb0eu5/rockyou2021TXT_Wordlist_torrent
+> https://mega.nz/file/bOxEUYLS#i4QuvXrfXQjPfWcsj4pokXEMPwZ7VZC1IzJwzPHlvmM
 
----
----
-
-># AnonFiles.com Download Links:
->#### Command To Extract:  `7za e RockYou2021.txt.7z.001`
->### **Part 1:**  rockyou2021.txt.7z.001  
->**Size:** 9GB  
->**Link:**  https://anonfiles.com/Da41k3c9y9/rockyou2021.txt.7z_001  
->
->### **Part 2:**  rockyou2021.txt.7z.002  
->**Size:** 4.64GB
->**Link:**  https://anonfiles.com/pfd4ra0fu9/rockyou2021.txt.7z_002
----
----
-
-># BayFiles.com Download Links:
->#### Command To Extract:  `7za e RockYou2021.txt.7z.001`
->### **Part 1:**  rockyou2021.txt.7z.001  
->**Size:** 9GB  
->**Link:**  https://bayfiles.com/T0mcg5tdy8/rockyou2021.txt.7z_001
->
->### **Part 2:**  rockyou2021.txt.7z.002  
->**Size:** 4.64GB
->**Link:**  https://bayfiles.com/D2e9gft3y7/rockyou2021.txt.7z_002
 ---
 ---
 
